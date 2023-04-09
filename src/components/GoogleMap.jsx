@@ -228,6 +228,7 @@ const calculateDistance = (lattitude1, longittude1,lattitude2,longittude2) =>
               zoomControl:true,
               scaleControl:false,
               disableDoubleClickZoom:true,
+              keyboardShortcuts : false,
               //fullscreenControl:false,
               gestureHandling: "greedy",
             }

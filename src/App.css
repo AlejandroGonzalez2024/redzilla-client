@@ -363,6 +363,12 @@ input[type="radio"]{
     justify-content: space-between;
     align-items: center;
 }
+.App div div div div .gm-style div div {
+    bottom: 125px !important;
+}
+.App div div div div .gm-style div .gmnoprint.gm-bundled-control.gm-bundled-control-on-bottom .gmnoprint {
+    top: -95px !important; 
+}
 @media (max-width: 400px){
     .mobileColum{
         flex-direction: column;
