@@ -367,7 +367,13 @@ input[type="radio"]{
     bottom: 125px !important;
 }
 .App div div div div .gm-style div .gmnoprint.gm-bundled-control.gm-bundled-control-on-bottom .gmnoprint {
-    top: -95px !important; 
+    top: -90px !important; 
+}
+.App div div div div .gm-style div div .gmnoprint.gm-style-cc div span {
+    display: none;
+}
+.App div div div div .gm-style div div .gmnoprint.gm-style-cc div a {
+    display: none;
 }
 @media (max-width: 400px){
     .mobileColum{

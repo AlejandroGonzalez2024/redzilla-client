@@ -34,7 +34,7 @@
     .subImg {
         width: calc(50% - 3px);
         height: 228px;
-
+        display: none;
         @media (max-width: 1000px) {
             width: 100%;
             height: 250px;
